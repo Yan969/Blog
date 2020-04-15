@@ -49,4 +49,6 @@ var vm = new Vue({
 ```
             
 **隐藏属性就是**  
-当我们把v-model中的couponSelected,也就是data里的couponSelected的值赋值为循环的option中的value后，那这个option就会被默认选中。
+当我们把v-model中的couponSelected,也就是data里的couponSelected的值赋值为循环的option中的value后，那这个option就会被默认选中。  
+**[转载自] https://www.cnblogs.com/till-the-end/p/8473738.html**
+
