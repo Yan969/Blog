@@ -1,5 +1,5 @@
 # Vue
-## vue中select的使用以及select设置默认选中
+## 一、vue中select的使用以及select设置默认选中
 
 **解决过程**  
 html代码如下，通过v-model可以获取到选中的值，如果option中存在value属性，优先获取value值即coupon.id，如果不存在，则获取option的文本内容，也就是下面代码中coupon.name.  
